@@ -7,6 +7,9 @@ ul {
     height: 100%; 
     position: fixed; 
     overflow: auto;
+    z-index: 1;
+    top: 0;
+    left: 0;
 }
 
 li{
@@ -28,12 +31,20 @@ img{
     border-radius: 50%;
 }
 
-h1,p{
-    margin-left: 30%;
+h1{
+    font-size:90px;
+    margin-top: 200px;
 }
 
-h1{
-    font-size:90px
+h1,p{
+    margin-left: 30%;
+    margin-bottom: 5px;
+}
+
+
+
+p{
+    margin-top: 5px;
 }
 
 span{
