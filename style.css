@@ -20,7 +20,7 @@ li{
 }
 
 li:hover{
-    color:#ffffff
+    color:#ffffff;
 }
 
 img{
@@ -29,8 +29,8 @@ img{
     margin-right: auto;
     margin-top: 200px;
     border-radius: 50%;
+    border:10px solid #dd754c;
 }
-
 h1{
     font-size:90px;
     margin-top: 200px;
@@ -45,6 +45,10 @@ h1,p{
 
 p{
     margin-top: 5px;
+}
+
+p.content{
+    margin-top: 50px;
 }
 
 span{
