@@ -48,6 +48,7 @@ h1,p{
 
 p{
     margin-top: 5px;
+    font-size: 20px;
 }
 
 p.content{
@@ -77,6 +78,6 @@ li.icons:hover{
     color:#bd5d38;
 }
 i{
-    margin-top: 30px;
+    margin-top: 35px;
     margin-right: 20px;
 }
